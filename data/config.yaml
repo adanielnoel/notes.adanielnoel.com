@@ -1,19 +1,21 @@
-name: Jacky Zhao
+name: Alejandro Daniel Noel
 enableToc: true
 openToc: false
+baseURL: https://notes.adanielnoel.com
 enableLinkPreview: true
 enableLatex: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A digital garden where I share my notes and ideas. Not as drafty as a scratchpad nor polished as a blog.
 page_title:
-  "🪴 Quartz 3.2"
+  "🪴 Ale's digital garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/adanielnoel
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/adanielnoel
+minify:
+  minifyOutput: false
